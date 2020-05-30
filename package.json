@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Reading sunspec",
   "main": "lib/sunspec-reader.js",
+  "types": "lib/sunspec-reader.d.ts",
   "scripts": {
     "compile": "tsc",
     "prepack": "npm run compile",
