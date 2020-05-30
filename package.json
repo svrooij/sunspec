@@ -1,6 +1,6 @@
 {
   "name": "@svrooij/sunspec",
-  "version": "0.0.1",
+  "version": "0.0.0-dev",
   "description": "Reading sunspec",
   "main": "lib/sunspec-reader.js",
   "types": "lib/sunspec-reader.d.ts",
