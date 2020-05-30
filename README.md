@@ -26,6 +26,14 @@ reader.readInverterInfo() // Reads model info (only needed once)
   })
 ```
 
+## Tested on
+
+|Manufacturer|Model|Tested on|Tested by|
+|------------|-----|---------|---------|
+|SolarEdge|SE3680|2020-05-30|[@svrooij](https://github.com/svrooij)|
+
+Send a PR, if you tested this on your inverter.
+
 ## Developer stuff
 
 This library is written in TypeScript. You'll need to compile it before you can run.
